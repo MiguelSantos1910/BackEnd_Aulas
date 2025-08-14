@@ -14,4 +14,4 @@ rl.question('Digite algo: ', (answer) =>{
     // Resposta do usuário
     console.log(`Você digitou ${answer}`);
     rl.close(); // Fecha a caixa de pergunta
-})
+});
