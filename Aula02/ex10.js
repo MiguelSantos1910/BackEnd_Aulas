@@ -13,5 +13,5 @@ rl.question('Digite o primeiro valor: ', (valor1) =>{
         console.log(valor1 + valor2);
         console.log(Number(valor1)+ Number(valor2)); // Com Number converte para número
         rl.close(); // Fecha a interface
-    })
-})
+    });
+});
